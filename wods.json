@@ -1,0 +1,53 @@
+{
+    "data": [{
+            "wod": {
+                "name": "Fran",
+                "time": 9,
+                "type": "Couplet",
+                "priority": "Task",
+                "repScheme": "21-15-9",
+                "movements": [{
+                        "name": "Thrusters",
+                        "weight": 43
+                    },
+                    {
+                        "name": "Pullups"
+                    }
+                ],
+                "notes": ""
+            }
+        },
+        {
+            "wod": {
+                "name": "Partner Glen",
+                "time": 32,
+                "type": "Chipper",
+                "priority": "Task",
+                "repScheme": "",
+                "movements": [{
+                        "name": "Clean & Jerks",
+                        "weight": 61,
+                        "reps": 30
+                    },
+                    {
+                        "name": "Run",
+                        "distance": 1600
+                    },
+                    {
+                        "name": "Rope Climbs",
+                        "reps": 10
+                    },
+                    {
+                        "name": "Run",
+                        "distance": 1600
+                    },
+                    {
+                        "name": "Burpees",
+                        "reps": 100
+                    }
+                ],
+                "notes": ""
+            }
+        }
+    ]
+}
